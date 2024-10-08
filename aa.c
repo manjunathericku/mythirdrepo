@@ -1,1 +1,1 @@
-resolved conflict file
+main conf fil
