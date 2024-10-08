@@ -1,1 +1,1 @@
-main conf fil
+conf  lict resoloved
